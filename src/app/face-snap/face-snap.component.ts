@@ -19,7 +19,7 @@ this.butonContenu = 'Oh snap'
   onSnap(){
     
     if(this.butonContenu == 'Oh snap'){
-      this.butonContenu = 'Oops, un snap';
+      this.butonContenu = 'Oops, unsnap';
       this.faceSnap.snaps++
     }else{
       this.butonContenu = 'Oh snap'
